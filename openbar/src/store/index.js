@@ -16,7 +16,6 @@ const orderStore = reactive({
     submitOrder() {
         // Logic to submit order to backend or perform other actions
         console.log('Order submitted:', this.beverages);
-        alert("Order submitted: ")
         // You can perform any further action needed here
     }
 });

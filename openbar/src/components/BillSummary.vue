@@ -1,7 +1,6 @@
 <template>
-  <div class="bill-summary-container">
-    <h2 class="summary-title">Bill Summary</h2>
-    <p class="total-bill">Total Bill: R {{ totalBill }}</p>
+  <div class="flex flex-col  absolute top-4 right-0.5 items-center h-screen">
+    <p class="text-2xl font-bold text-gray-800">Total Bill: R {{ totalBill }}</p>
   </div>
 </template>
 
@@ -15,7 +14,7 @@ export default {
 
     return { totalBill };
   }
-};
+}
 </script>
 
 <style scoped>

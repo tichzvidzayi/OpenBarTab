@@ -13,8 +13,8 @@ import orderStore from './store';
 
 export default {
   components: {
-    OrderForm,
-    BillSummary
+    BillSummary, OrderForm
+
   },
   setup() {
     provide('orderStore', orderStore);
