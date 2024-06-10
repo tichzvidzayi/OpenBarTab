@@ -1,14 +1,11 @@
-# Open Bar Tab Web App (Nuxt and TailwindCSS)
-
-This is a simple web application built with Nuxt.js for managing an open bar tab. Users can select beverages, enter the quantity for each beverage, add them to their tab, and view the total bill. Optionally, users can specify the number of people splitting the bill.
+# Open Bar Tab Web App (Vue and TailwindCSS)
+The Open Bar Tab Web App is a web application built using Vue.js to manage an open bar tab for a bar or restaurant. It allows users to list different types of beverages, enter quantities for each type of beverage for a "round of drinks", submit/add the specified order or beverages to an open tab,
 ## Features
 
 - Display a list of available beverages with prices.
 - Allow users to enter the quantity of each beverage for a round of drinks.
 - Add the selected beverages to the open tab.
-- Calculate the total bill and display it.
-- Optionally specify the number of people splitting the bill.
-- Export the tab as a CSV or PDF for receipt.
+- Calculate the total bill and display it. .
 
 ## Installation
 
@@ -18,11 +15,18 @@ This is a simple web application built with Nuxt.js for managing an open bar tab
 
 3. npm install
 
-4. npm run dev
+4. npm run build
 
-5. Open your web browser and visit http://localhost:xxx
+5. npm run dev
 
-Tech used :
+6. Open your web browser and visit http://localhost:xxxx
+
+# Technologies used :
 Nuxt.js
 Vue.js
 Tailwind CSS
+
+# In Addition App
+- app can you TypeScript to avoid common errors
+- can export a receipt as a pdf or email receipts
+- can optionally, enter the number of people who will split the total bill
