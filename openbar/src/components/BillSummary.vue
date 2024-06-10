@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col  absolute top-4 right-0.5 items-center h-screen">
-    <p class="text-2xl font-bold text-gray-800">Total Bill: R {{ totalBill }}</p>
+    <p class="text-orange-500 font-bold text-gray-800">Total Bill: R {{ totalBill }}</p>
   </div>
 </template>
 
@@ -16,7 +16,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-/* Styles omitted for brevity */
-</style>

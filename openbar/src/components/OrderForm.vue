@@ -1,6 +1,6 @@
 <template>
-  <div class="flex flex-col  top-0 justify-center items-center h-screen">
-    <h2 class="text-3xl font-bold text-gray-800">Order Form</h2>
+  <div class="flex flex-col justify-center items-center h-screen">
+    <h3 class="text-3xl font-bold text-gray-800">Order Form</h3>
     <form @submit.prevent="submitOrder" class="w-full max-w-md bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
       <div class="beverage-items">
         <div v-for="beverage in beverages" :key="beverage.name" class="beverage-item mb-4">
@@ -25,7 +25,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-/* Styles omitted for brevity */
-</style>
