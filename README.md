@@ -22,11 +22,12 @@ The Open Bar Tab Web App is a web application built using Vue.js to manage an op
 6. Open your web browser and visit http://localhost:xxxx
 
 # Technologies used :
-Nuxt.js
-Vue.js
-Tailwind CSS
 
-# In Addition App
-- app can you TypeScript to avoid common errors
+Vue.js
+TailwindCSS
+
+# In Addition/ Improvements App
+- can you TypeScript to avoid common errors
+- use testing frameworks like Jest for testing
 - can export a receipt as a pdf or email receipts
 - can optionally, enter the number of people who will split the total bill
