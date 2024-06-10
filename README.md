@@ -27,7 +27,7 @@ Vue.js
 TailwindCSS
 
 # In Addition/ Improvements App
-- can you TypeScript to avoid common errors
+- can use TypeScript to avoid common errors
 - use testing frameworks like Jest for testing
 - can export a receipt as a pdf or email receipts
 - can optionally, enter the number of people who will split the total bill
