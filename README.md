@@ -4,7 +4,7 @@ The Open Bar Tab web-app is a web application built using Vue.js to manage an op
 - Display a list of available beverages with prices
 - Allow users to enter the quantity of each beverage for a round of drinks.
 - Add the selected beverages to the open tab.
-- Calculate the total bill and display it. .
+- Calculate the total bill and display it.
 
 ## Installation
 
