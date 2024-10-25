@@ -27,12 +27,12 @@ npm install
  npm run dev
 ```
 
-6. Open your web browser and visit http://localhost:xxxx
+ Open your web browser and visit http://localhost:xxxx
 
 # Technologies used :
 
-Vue.js
-TailwindCSS
+- Vue.js
+- TailwindCSS
 
 # In Addition/ Improvements App
 - can use TypeScript to avoid common errors
