@@ -27,7 +27,7 @@ npm install
  npm run dev
 ```
 
- Open your web browser and visit http://localhost:xxxx
+ Open your web browser and visit http://localhost:3000
 
 # Technologies used :
 
