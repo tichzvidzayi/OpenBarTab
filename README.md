@@ -1,5 +1,6 @@
 # Open Bar Tab Web App (Vue and Tailwind)
-The Open Bar Tab web app is built using Vue.js to manage an open bar tab for a bar or restaurant. It allows users to list different types of beverages, enter quantities for each type of beverage for a "round of drinks", submit/add the specified order or beverages to an open tab.
+The Open Bar Tab web app is built using Vue.js to manage an open bar tab for a bar or restaurant. It allows users to list different types of beverages, enter quantities for each type of beverage for a "round of drinks", and submit/add the specified order or beverages to an open tab.
+
 ## Features
 - Display a list of available beverages with prices
 - Allow users to enter the quantity of each beverage for a round of drinks
