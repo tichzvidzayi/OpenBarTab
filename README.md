@@ -9,12 +9,15 @@ The Open Bar Tab web app is built using Vue.js to manage an open bar tab for a b
 
 ## Installation
 
-1. Clone the repository:
+ Clone the repository:
 
-``` cd open-bar-tab-app
+```
+ cd open-bar-tab-app
 ```
 
-``` npm install ```
+```
+npm install
+```
 
 4. npm run build
 
