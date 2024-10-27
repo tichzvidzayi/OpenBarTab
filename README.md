@@ -32,7 +32,6 @@ npm install
 ```
 
 # Technologies used :
-
 - Vue.js
 - TailwindCSS
 
