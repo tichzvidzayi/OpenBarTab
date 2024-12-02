@@ -8,7 +8,6 @@ The Open Bar Tab web app is built using Vue.js to manage an open bar tab for a b
 - Add the selected beverages to the open tab
 - Calculate the total bill and display it
 
-  
 ## Installation
 
  Clone the repository:
