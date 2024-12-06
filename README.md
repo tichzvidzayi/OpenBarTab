@@ -9,6 +9,7 @@ The Open Bar Tab web app is built using Vue.js to manage an open bar tab for a b
 - Calculate the total bill and display it
 
 ## Installation
+
  Clone the repository:
 ```
  cd open-bar-tab-app
