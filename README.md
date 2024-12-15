@@ -34,7 +34,7 @@ npm install
 - Vue.js
 - TailwindCSS
 
-# In Addition/ Improvements App
+# Additions/ Improvements 
 - can use TypeScript to avoid common errors
 - use testing frameworks like Jest for testing
 - can export a receipt as a PDF or email receipts
